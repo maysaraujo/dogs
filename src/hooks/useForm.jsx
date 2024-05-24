@@ -13,7 +13,7 @@ const types = {
 
 const useForm = (type) => {
   const [value, setValue] = useState('');
-  const [error, setError] = useState('');
+  const [error, setError] = useState(null);
 
   function validate(value) {
     if (type === false) return true;
