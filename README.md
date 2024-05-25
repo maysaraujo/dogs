@@ -1,10 +1,15 @@
 <h1 align="center">:file_cabinet: Dogs - Uma rede social para cachorros</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+Uma aplicação de rede social para cachorros. Os usuários têm a opção de se cadastrar, carregar suas próprias imagens e acessar estatísticas sobre seu perfil, incluindo o número de visualizações de suas fotos.
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* <b>Funcionalidade 1</b>: Cadastro de usuário;
+* <b>Funcionalidade 2</b>: Postagem de fotos;
+* <b>Funcionalidade 3</b>: Comentários em postagens de outros usuários;
+* <b>Funcionalidade 4</b>: Estatísticas de visualizações com um dashboard;
+* <b>Funcionalidade 5</b>: Deletar fotos;
+* <b>Funcionalidade 6</b>: Recuperação de senha.
 
 ## :wrench: Tecnologias utilizadas
 * Tecnologia;
