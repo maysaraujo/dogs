@@ -1,7 +1,7 @@
 <h1 text-align="center">🐕 Dogs - Uma rede social para cachorros</h1>
 
 ## :memo: Descrição
-Uma aplicação de rede social para cachorros. Os usuários têm a opção de se cadastrar, carregar suas próprias imagens e acessar estatísticas sobre seu perfil, incluindo o número de visualizações de suas fotos.
+Uma aplicação de rede social para cachorros. O usuário têm a opção de se cadastrar, carregar suas próprias imagens e acessar estatísticas sobre seu perfil, incluindo o número de visualizações de suas fotos.
 
 ## :books: Funcionalidades
 * Cadastro de usuário;
@@ -17,7 +17,7 @@ Uma aplicação de rede social para cachorros. Os usuários têm a opção de se
 * Victory.
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+Para rodar o repositório é necessário clonar o mesmo e dar os seguintes comandos para iniciar o projeto:
 ```
 Clone esse repositório
 $ git clone https://github.com/maysaraujo/dogs.git
