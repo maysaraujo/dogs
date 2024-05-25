@@ -1,6 +1,6 @@
 # Dogs - Uma rede social para cachorros
 
-## 📜 Descrição
+## 📜Descrição
 <p>Criação da aplicação Dogs - Uma rede social para cachorros. O usuário tem a opção de se cadastrar, carregar suas próprias imagens e acessar estatísticas sobre seu perfil, incluindo o número de visualizações de suas fotos.</p>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
