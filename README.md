@@ -12,12 +12,21 @@ Uma aplicação de rede social para cachorros. Os usuários têm a opção de se
 * <b>Funcionalidade 6</b>: Recuperação de senha.
 
 ## :wrench: Tecnologias utilizadas
-* Tecnologia;
+* ReactJS;
+* React Router;
+* Victory.
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+Clone esse repositório
+$ git clone https://github.com/maysaraujo/dogs.git
+
+Instalar dependências
+$ npm install
+
+Inicie o projeto
+$ npm start
 ```
 
 ## :soon: Implementação futura
