@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Dogs - Uma rede social para cachorros</h1>
+<h1 text-align="center">🐕 Dogs - Uma rede social para cachorros</h1>
 
 ## :memo: Descrição
 Uma aplicação de rede social para cachorros. Os usuários têm a opção de se cadastrar, carregar suas próprias imagens e acessar estatísticas sobre seu perfil, incluindo o número de visualizações de suas fotos.
