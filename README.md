@@ -26,7 +26,7 @@ Instalar dependências
 $ npm install
 
 Inicie o projeto
-$ npm start
+$ npm run dev
 ```
 
 ## :soon: Implementação futura
